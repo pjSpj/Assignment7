@@ -3,7 +3,7 @@ var config = {
   authDomain: "train-c0284.firebaseapp.com",
   databaseURL: "hcom",
   projectId: "tr4",
-  storageBucket: "traipspot.com",
+  storageBucket: "traipspocom",
   messagingSenderId: "5233"
 };
 firebase.initializeApp(config);
