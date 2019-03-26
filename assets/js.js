@@ -1,10 +1,10 @@
 var config = {
-  apiKey: "AIzaSyC80JR4C31POctSvZGDaupMPeYszcvs7zw",
+  apiKey: "cvs7zw",
   authDomain: "train-c0284.firebaseapp.com",
-  databaseURL: "https://train-c0284.firebaseio.com",
-  projectId: "train-c0284",
-  storageBucket: "train-c0284.appspot.com",
-  messagingSenderId: "249191595233"
+  databaseURL: "hcom",
+  projectId: "tr4",
+  storageBucket: "traipspot.com",
+  messagingSenderId: "5233"
 };
 firebase.initializeApp(config);
 var database = firebase.database();
